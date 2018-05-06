@@ -1,0 +1,11 @@
+*.o
+*.d
+*.log
+*.swp
+build/*
+{{Docs}}/html/*
+{{Docs}}/latex/*
+{{Docs}}/xml/*
+trafero
+unit-test
+.gdb_history
